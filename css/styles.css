@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: merriweather, serif;
+}
+h1 {
+  margin-top: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 562%;
+  color: #66bfbf;
+}
+h2 {
+  font-size: 2.5rem;
+  font-family: "montserrat", sans-serif;
+  color: #66bfbf;
+  font-weight: normal;
+  line-height: 2;
+}
+h3 {
+  font-family: "montserrat", sans-serif;
+}
+.web {
+  color: #11999e;
+}
+.app {
+  color: #11999e;
+}
+.site {
+  color: #11999e;
+}
+.first-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+.btn {
+  color: white;
+  background-color: #11999e;
+  border-radius: 20%;
+  padding: 15px;
+  text-decoration: none;
+}
+.footer-link {
+  color: #11999e;
+}
+.mypichur {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+.wb {
+  border-radius: 50%;
+  float: left;
+  height: 250px;
+  width: 50%;
+  margin-right: 30px;
+}
+.ap {
+  border-radius: 50%;
+  float: right;
+  height: 250px;
+  width: 45%;
+  margin-right: 30px;
+}
+.skill-row {
+  width: 50%;
+  margin: 50px auto 200px auto;
+  text-align: left;
+}
+p {
+  color: #40514e;
+  line-height: 2;
+}
+.first-container {
+  background-color: #e4f9f5;
+  position: relative;
+}
+hr {
+  width: 4%;
+  border-width: 6px;
+  border: dotted;
+  color: #eaf6f6;
+  border-bottom: none;
+  margin: 100px auto;
+}
+.front {
+  position: relative;
+  left: 300px;
+}
+.end {
+  position: relative;
+  bottom: 300px;
+}
+.contact-me {
+  margin: 10px auto;
+}
+.bottom-container {
+  height: 150px;
+  width: 100%;
+  background-color: #66bfbf;
+  margin-right: 0;
+}
+.footer-link {
+  color: #11999e;
+  margin-right: 40px;
+  position: relative;
+  top: 60px;
+  text-decoration: none;
+}
+a:hover {
+  color: #eaf6f6;
+}
+.close {
+  position: relative;
+  top: 80px;
+  color: #eaf6f6;
+  font-size: 0.75rem;
+}
+.middle-container {
+  padding: 100px 0 100px 0;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.mail {
+  width: 30%;
+  margin: 40px auto 60px;
+}
